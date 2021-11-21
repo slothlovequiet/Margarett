@@ -1,0 +1,15 @@
+{
+  "name": "margarettdesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "en.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MargarettDisign"
+  },
+  "author": "slothlovequiet",
+  "license": "ISC"
+}
